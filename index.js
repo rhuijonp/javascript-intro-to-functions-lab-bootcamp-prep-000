@@ -1,19 +1,19 @@
 function shout(string){
-  return string.toUpperCase()
+  return string.toUpperCase();
 }
 
 function whisper(string){
-  return string.toLowerCase()
+  return string.toLowerCase();
 }
 
 function logShout(string) {
-  return console.log(string.toUpperCase())
+  return console.log(string.toUpperCase());
 }
 
 function logWhisper(string) {
-  return console.log(string.toLowerCase())
+  return console.log(string.toLowerCase());
 }
 
 
 
-shout("this is a test")
+shout("this is a test");
