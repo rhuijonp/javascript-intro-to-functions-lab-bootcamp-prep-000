@@ -16,3 +16,4 @@ function logWhisper(string) {
 
 
 
+shout("test")
