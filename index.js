@@ -16,4 +16,3 @@ function logWhisper(string) {
 
 
 
-shout("this is a test");
