@@ -16,4 +16,4 @@ function logWhisper(string) {
 
 
 
-shout("test")
+console.log("test")
